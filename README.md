@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android, java**
+- 💬 Ask me about **Android, Java, Xamarin, C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
