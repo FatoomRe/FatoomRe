@@ -55,16 +55,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatoomre&theme=dracula" />
   </picture>
 </p>
-<p>
-  <picture class="lang">
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fatoomre&theme=transparent&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fatoomre&count_private=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatoomre&theme=dracula&count_private=true" />
-  </picture>
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatoomre&layout=compact&theme=holi&border=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
