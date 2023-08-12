@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatoomre&label=Profile%20views&color=0e75b6&style=flat" alt="fatoomre" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
-
+- 🤝 I’m looking to collaborate with other developers to build great stuff
 - 💬 Ask me about **Android, Java, Xamarin, C#**
 
 # 📞 Connect with me:
