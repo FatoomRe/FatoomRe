@@ -27,36 +27,35 @@
 
 ![Snake animation](https://github.com/FatoomRe/FatoomRe/blob/8669791f3fd2bf4b751042da005673d85955dc74/github%20snake.svg)
 
-
   # 📊 GitHub Stats :
 
-<p>
-  <picture class="ghStats">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fatoomre&theme=transparent&count_private=true&show_icons=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fatoomre&count_private=true&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=fatoomre&theme=dracula&count_private=true&show_icons=true" />
-  </picture>
-</p>
-<p>
-  <picture class="streak">
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=fatoomre&theme=transparent"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=gazkoo"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatoomre&theme=dracula" />
-  </picture>
-</p>
+<!--- stats & Trophy (start) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatoomre&layout=compact&theme=holi&border=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ 
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=fatoomre&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fatoomre&theme=midnight-purple&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fatoomre&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+
+</p>        
+ 
+<!--- stats (end) --->
 
 
