@@ -14,10 +14,6 @@
 - 🤝 I’m looking to collaborate with other developers to build great stuff
 - ⚡ Fun fact: I'm a geek who loves books! And really love Tech World 📚👾
 
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
-
-
 # 📞 Connect with me:
 <p align="left">
 <a href="https://twitter.com/fatoomre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatoomre" height="30" width="40" /></a>
