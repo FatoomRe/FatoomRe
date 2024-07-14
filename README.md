@@ -12,7 +12,6 @@
 - 💬 Ask me about **Android, Java, Xamarin, C#**
 - 📫 Feel free to reach me out FatimahAlabbas1@outlook.sa
 - 🤝 I’m looking to collaborate with other developers to build great stuff
-- ⚡ Fun fact: I'm a geek who loves books! And really love Tech World 📚👾
 
 # 📞 Connect with me:
 <p align="left">
