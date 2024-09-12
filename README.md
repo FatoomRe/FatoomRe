@@ -63,4 +63,8 @@
 <!--- stats (end) --->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<div align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&multiline=true&random=false&width=650&height=100&lines=Don't+forget+to+star+the+repositories+you+like;and+follow+me+for+more+updates." alt="Typing SVG" />
+</div>
+
 
