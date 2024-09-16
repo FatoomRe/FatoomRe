@@ -65,7 +65,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # ✨ Inspirational Quote :
-![121234](https://github.com/user-attachments/assets/0cc6a644-1325-4251-9161-fabd6e9fe86e)
+![12311](https://github.com/user-attachments/assets/b9b8c62b-9b20-41c0-9f3f-5cdc8373aca7)
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
