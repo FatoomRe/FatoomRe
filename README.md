@@ -12,6 +12,7 @@
 - 💬 Ask me about **Android, Java, Xamarin, C#**
 - 📫 Feel free to reach me out FatimahAlabbas1@outlook.sa
 - 🤝 I’m looking to collaborate with other developers to build great stuff
+- ✨ Fun fact: I'm moldable, but I still keep my creative flair intact
 
 # 📞 Connect with me:
 <p align="left">
