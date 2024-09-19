@@ -186,7 +186,7 @@
 <!--- stats (end) --->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# ✨ Inspirational Quote :
+# <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Inspirational Quote :
 ![12311](https://github.com/user-attachments/assets/b9b8c62b-9b20-41c0-9f3f-5cdc8373aca7)
 
 
