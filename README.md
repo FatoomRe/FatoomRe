@@ -14,11 +14,30 @@
 - 🤝 I’m looking to collaborate with other developers to build great stuff
 - ✨ Fun fact: I'm moldable, but I still keep my creative flair intact
 
-# 📞 Connect with me:
-<p align="left">
-<a href="https://twitter.com/fatoomre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatoomre" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fatimah alabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatimah alabbas" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dev.fatimah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuba.captures" height="30" width="40" /></a>
+# 🔗 Connect with me:
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://twitter.com/fatoomre" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+        <br>Twitter
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://linkedin.com/in/fatimah alabbas" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        <br>LinkedIn
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.instagram.com/dev.fatimah" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+        <br>Instagram
+      </a>
+    </td>
+  </tr>
+</table>
 
 # 🛠 Languages and Tools:
 
