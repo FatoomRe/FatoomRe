@@ -46,12 +46,6 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-        <br>Android
-      </a>
-    </td>
-    <td align="center" width="100">
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
         <br>Arduino
@@ -96,12 +90,6 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-        <br>GCP
-      </a>
-    </td>
-    <td align="center" width="100">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
         <br>Git
@@ -120,11 +108,11 @@
       </a>
     </td>
     <td align="center" width="100">
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    <br>Postman
-  </a>
-</td>
+      <a href="https://www.postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+        <br>Postman
+      </a>
+    </td>
     <td align="center" width="100">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -145,6 +133,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ![Snake animation](https://github.com/FatoomRe/FatoomRe/blob/317bac09bc80d22448b37cd3153e24351c9f0436/ContrSnacke.svg)
