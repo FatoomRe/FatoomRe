@@ -155,6 +155,8 @@
   # 📊 GitHub Stats :
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatoomre&theme=algolia" alt="Profile Details" style="width: 100%; height: auto;">
+
 <!--- stats & Trophy (start) -->
 
 <p align="center">
@@ -163,6 +165,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
+
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=fatoomre&theme=algolia" />
   <br></br>
