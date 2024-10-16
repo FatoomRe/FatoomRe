@@ -20,8 +20,8 @@
   <tr>
     <td align="center" width="100">
       <a href="https://twitter.com/fatoomre" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-        <br>Twitter
+        <img src="https://static.vecteezy.com/system/resources/previews/027/395/710/original/twitter-brand-new-logo-3-d-with-new-x-shaped-graphic-of-the-world-s-most-popular-social-media-free-png.png" alt="X" height="40" width="40" />
+        <br>X
       </a>
     </td>
     <td align="center" width="100">
