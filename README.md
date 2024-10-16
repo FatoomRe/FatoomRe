@@ -148,7 +148,7 @@
 
 
 
-![Snake animation](https://github.com/FatoomRe/FatoomRe/blob/317bac09bc80d22448b37cd3153e24351c9f0436/ContrSnacke.svg)
+![Snake animation](https://github.com/FatoomRe/FatoomRe/blob/ced0218c52b185921210feb98c7fb329a148ff1e/github%20contribution.svg)
 
 
 
