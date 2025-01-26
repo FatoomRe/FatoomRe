@@ -167,9 +167,9 @@
 <td width="50%" align="center">
 
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=fatoomre&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatoomre&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long" alt="fatoomre's GitHub stats" />
+</details>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fatimah streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fatoomre&theme=algolia" /> 
 </td>
 
 
