@@ -8,8 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatoomre&label=Profile%20views&color=0e75b6&style=flat" alt="fatoomre" /> </p>
 
-- 🌱 I’m currently learning **Flutter** & **Firebase**
-- 💬 Ask me about **Android, Java, Xamarin, C#**
+- 🌱 I’m currently learning **React Native⚛️**
+- 💬 Ask me about **Flutter** & **Firebase**
 - 📫 Feel free to reach me out FatimahAlabbas1@outlook.sa
 - 🤝 I’m looking to collaborate with other developers to build great stuff
 - ✨ Fun fact: I'm moldable, but I still keep my creative flair intact
@@ -196,7 +196,3 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-<div align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&multiline=true&random=false&width=650&height=100&lines=Don't+forget+to+star+the+repositories+you+like;and+follow+me+for+more+updates ❤️" alt="Typing SVG" />
-</div>
