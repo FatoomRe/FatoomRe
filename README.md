@@ -47,8 +47,8 @@
   <tr>
     <td align="center" width="100">
       <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-        <br>Android
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="android" width="40" height="40"/>
+        <br>React
       </a>
     </td>
     <td align="center" width="100">
