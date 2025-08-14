@@ -168,6 +168,8 @@
 
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatoomre&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long" alt="fatoomre's GitHub stats" />
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fatoomre&theme=algolia&hide_border=true&card_width=465" alt="GitHub Streak" /></a>
 </details>
   <br></br>
 </td>
