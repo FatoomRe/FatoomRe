@@ -47,7 +47,7 @@
   <tr>
     <td align="center" width="100">
       <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="android" width="40" height="40"/>
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="40" height="40"/>
         <br>React
       </a>
     </td>
@@ -120,11 +120,11 @@
       </a>
     </td>
     <td align="center" width="100">
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    <br>Postman
-  </a>
-</td>
+      <a href="https://www.postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+        <br>Postman
+      </a>
+    </td>
     <td align="center" width="100">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -141,6 +141,56 @@
       <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
         <br>Xamarin
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        <br>TypeScript
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+        <br>TailwindCSS
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+        <br>Node.js
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+        <br>GraphQL
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+        <br>MongoDB
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+        <br>VS Code
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+        <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
+        <br>Vite
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+        <br>C++
       </a>
     </td>
   </tr>
