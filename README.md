@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatoomre&label=Profile%20views&color=0e75b6&style=flat" alt="fatoomre" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **React JS/TS**
 - 💬 Ask me about **Flutter** & **Firebase**
 - 📫 Feel free to reach me out FatimahAlabbas1@outlook.sa
 - 🤝 I’m looking to collaborate with other developers to build great stuff
